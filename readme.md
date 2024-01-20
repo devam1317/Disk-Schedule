@@ -30,7 +30,7 @@ BINARY SEMAPHORE, COUNTING SEMAPHORE and LOCK VARIABLE.
 
 # How to Run Algorithm?
 
-### First you have to extract .rar file and open the folder in some editor.(prefer Use VS Code editor)
+### Clone the repo in your local machine and open the folder in your IDE. (prefered is VS Code).
 ### Open index.html file and click GO live option which is located at bottomright corner of your VScode editor. Screen look like below.
 
 ## DISK SCHEDULING 
